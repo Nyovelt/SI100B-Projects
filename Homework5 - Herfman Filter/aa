@@ -1,0 +1,4 @@
+testcases/student_gpa.gpa,testcases/student_gpa.id,testcases/student_name.id,testcases/student_name.major,testcases/student_name.name,testcases/student_name.school
+4.0,12567923,12567923,BIO,Wang Dachui,SLST
+3.98,23456123,23456123,CS,Li Xiaoming,SIST
+3.76,45280742,45280742,PHY,Ge Ziwang,SPST
